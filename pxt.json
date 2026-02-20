@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "TestGameGo": "github:hi631/gamego_lib#a6e8366b48559ab5e1ad7dedc5af36de9cdcafe1"
+        "TestGameGo": "github:hi631/gamego_lib#a6e8366b48559ab5e1ad7dedc5af36de9cdcafe1",
+        "edge-connector": "*"
     },
     "files": [
         "main.blocks",
@@ -18,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.5",
+        "target": "4.0.7",
         "targetId": "arcade"
     },
     "supportedTargets": [
